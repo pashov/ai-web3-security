@@ -17,6 +17,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [zerocoolailabs/ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) | Vulnerability Detector Skill | Solidity |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Rust Security Development Skill | Rust |
 | [sanbir/move-auditor-skills](https://github.com/sanbir/move-auditor-skills) | Move Auditor Skills | Move |
+| [pantheraudits/move-auditor](https://github.com/pantheraudits/move-auditor) | Move Auditor Skill | Move |
 | [trailofbits/skills](https://github.com/trailofbits/skills) | Security Dev Testing Skills | Multi-Lang |
 | [JoranHonig/grimoire](https://github.com/JoranHonig/grimoire) | Co-Auditor Skill | Multi-Lang |
 | [forefy/.context](https://github.com/forefy/.context) | Security Audit Skills | Multi-Lang |
