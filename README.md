@@ -15,6 +15,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [Archethect/sc-auditor](https://github.com/Archethect/sc-auditor) | Smart Contract Security Auditor Skill | Solidity |
 | [auditmos/skills](https://github.com/auditmos/skills) | Security Audit Skills | Solidity |
 | [zerocoolailabs/ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) | Vulnerability Detector Skill | Solidity |
+| [KannAILabs/Solidity-AI-security-auditor](https://github.com/KannAILabs/Solidity-AI-security-auditor) | AI-powered smart contract security audit tool | Solidity |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Rust Security Development Skill | Rust |
 | [sanbir/move-auditor-skills](https://github.com/sanbir/move-auditor-skills) | Move Auditor Skills | Move |
 | [pantheraudits/move-auditor](https://github.com/pantheraudits/move-auditor/) | Move Auditor | Move |
@@ -24,6 +25,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [0xiehnnkta/nemesis-auditor](https://github.com/0xiehnnkta/nemesis-auditor) | Security Audit Agent Skill | Multi-Lang |
 | [OpenZeppelin/openzeppelin-skills](https://github.com/OpenZeppelin/openzeppelin-skills) | Secure Development Skills | Multi-Lang |
 | [Monethic/monethic-maia](https://github.com/Monethic/monethic-maia) | AI Auditor | Multi-Lang |
+| [slvDev/weasel](https://github.com/slvDev/weasel) | Solidity static analyzer you can talk to | Multi-Lang |
 | [hackenproof-public/skills](https://github.com/hackenproof-public/skills) | Triage Skills | Other |
 | [marchev/claudit](https://github.com/marchev/claudit) | Security Findings Skill | Other |
 | [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | AI assisted bounty hunting | Other |
