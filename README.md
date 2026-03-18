@@ -54,3 +54,4 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [Winfunc](https://winfunc.com/) | Autonomous AI-native security audits | Multi-Lang |
 | [webrainsec](https://webrainsec.io/) | AI-augmented smart contract security | Multi-Lang |
 | [Auron](https://www.auron.xyz/) | Autonomous AI security researcher | Multi-Lang |
+| [AuditHub](https://audithub.dev/) | Automated Security Scanner | Multi-Lang |
