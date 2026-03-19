@@ -56,3 +56,4 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [webrainsec](https://webrainsec.io/) | AI-augmented smart contract security | Multi-Lang |
 | [Auron](https://www.auron.xyz/) | Autonomous AI security researcher | Multi-Lang |
 | [AuditHub](https://audithub.dev/) | Automated Security Scanner | Multi-Lang |
+| [Nethermind AuditAgent](https://auditagent.nethermind.io/) | AI Audit Agent | Multi-Lang |
