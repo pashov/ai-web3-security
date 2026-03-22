@@ -16,6 +16,8 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [auditmos/skills](https://github.com/auditmos/skills) | Security Audit Skills | Solidity |
 | [zerocoolailabs/ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) | Vulnerability Detector Skill | Solidity |
 | [KannAILabs/Solidity-AI-security-auditor](https://github.com/KannAILabs/Solidity-AI-security-auditor) | AI-powered smart contract security audit tool | Solidity |
+| [alt-research/SolidityGuard](https://github.com/alt-research/SolidityGuard) | Solidity/EVM smart contract security auditor | Solidity |
+| [GPTScan/GPTScan](https://github.com/GPTScan/GPTScan) | GPT + Program Analysis Logic Vulnerability Detector | Solidity |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Rust Security Development Skill | Rust |
 | [sanbir/move-auditor-skills](https://github.com/sanbir/move-auditor-skills) | Move Auditor Skills | Move |
 | [pantheraudits/move-auditor](https://github.com/pantheraudits/move-auditor/) | Move Auditor | Move |
@@ -57,3 +59,4 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [Auron](https://www.auron.xyz/) | Autonomous AI security researcher | Multi-Lang |
 | [AuditHub](https://audithub.dev/) | Automated Security Scanner | Multi-Lang |
 | [Nethermind AuditAgent](https://auditagent.nethermind.io/) | AI Audit Agent | Multi-Lang |
+| [Critikalai](https://www.critikalai.com/) | AI Security | Multi-Lang |
