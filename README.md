@@ -18,6 +18,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [KannAILabs/Solidity-AI-security-auditor](https://github.com/KannAILabs/Solidity-AI-security-auditor) | AI-powered smart contract security audit tool | Solidity |
 | [alt-research/SolidityGuard](https://github.com/alt-research/SolidityGuard) | Solidity/EVM smart contract security auditor | Solidity |
 | [GPTScan/GPTScan](https://github.com/GPTScan/GPTScan) | GPT + Program Analysis Logic Vulnerability Detector | Solidity |
+| [DarkNavySecurity/contract-auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/contract-auditor) | Smart Contract Audit Skill | Solidity |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Rust Security Development Skill | Rust |
 | [sanbir/move-auditor-skills](https://github.com/sanbir/move-auditor-skills) | Move Auditor Skills | Move |
 | [pantheraudits/move-auditor](https://github.com/pantheraudits/move-auditor/) | Move Auditor | Move |
@@ -29,6 +30,8 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [Monethic/monethic-maia](https://github.com/Monethic/monethic-maia) | AI Auditor | Multi-Lang |
 | [slvDev/weasel](https://github.com/slvDev/weasel) | Solidity static analyzer you can talk to | Multi-Lang |
 | [PlamenTSV/plamen](https://github.com/PlamenTSV/plamen) | Autonomous Web3 security audit agent | Multi-Lang |
+| [DarkNavySecurity/client-auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/client-auditor) | Blockchain Client Audit Skill | Multi-Lang |
+| [DarkNavySecurity/exploit-investigator](https://github.com/DarkNavySecurity/web3-skills/tree/main/exploit-investigator) | Exploit & Root Cause Analysis Skill | Exploit Analysis |
 | [hackenproof-public/skills](https://github.com/hackenproof-public/skills) | Triage Skills | Other |
 | [marchev/claudit](https://github.com/marchev/claudit) | Security Findings Skill | Other |
 | [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | AI assisted bounty hunting | Other |
