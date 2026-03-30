@@ -34,6 +34,8 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) | AI assisted bounty hunting | Other |
 | [han-sec/trident-fuzz-skill](https://github.com/han-sec/trident-fuzz-skill) | Fuzzing skill | Other |
 | [ZealynxSecurity/krait](https://github.com/ZealynxSecurity/krait) | AI-First Smart Contract Security Auditor | Other |
+| [CDSecurity/cdsecurity-skills](https://github.com/CDSecurity/cdsecurity-skills) | Claude Code Skills for Smart Contract Security | Solidity |
+| [konstantinvelev/AI](https://github.com/konstantinvelev/AI) | Claude Code Skills | Multi-Lang |
 
 ## Paid/Closed Source AI Security Tools
 
