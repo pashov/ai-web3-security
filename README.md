@@ -36,6 +36,8 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [ZealynxSecurity/krait](https://github.com/ZealynxSecurity/krait) | AI-First Smart Contract Security Auditor | Other |
 | [CDSecurity/cdsecurity-skills](https://github.com/CDSecurity/cdsecurity-skills) | Claude Code Skills for Smart Contract Security | Solidity |
 | [konstantinvelev/AI](https://github.com/konstantinvelev/AI) | Claude Code Skills | Multi-Lang |
+| [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI Auditor | Rust |
+| [DarkNavySecurity/contract-auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/contract-auditor) | Smart Contract Audit Skill | Solidity |
 
 ## Paid/Closed Source AI Security Tools
 
@@ -62,3 +64,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [AuditHub](https://audithub.dev/) | Automated Security Scanner | Multi-Lang |
 | [Nethermind AuditAgent](https://auditagent.nethermind.io/) | AI Audit Agent | Multi-Lang |
 | [Critikalai](https://www.critikalai.com/) | AI Security | Multi-Lang |
+| [Kritt.ai](https://kritt.ai/#about) | AI-powered Security tailored for Blockchain | Multi-Lang |
+| [Redvolt.ai](https://redvolt.ai/web3-auditor) | AI Security Auditor | Multi-Lang |
+| [Olympix](https://olympix.security/) | Pre-deployment Security | Multi-Lang |
+| [AuditBase](https://www.auditbase.com/) | Smart Contract Scan | Solidity |
