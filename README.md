@@ -68,3 +68,4 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [Redvolt.ai](https://redvolt.ai/web3-auditor) | AI Security Auditor | Multi-Lang |
 | [Olympix](https://olympix.security/) | Pre-deployment Security | Multi-Lang |
 | [AuditBase](https://www.auditbase.com/) | Smart Contract Scan | Solidity |
+| [Guardix](https://guardix.io/) | AI-powered Audits | Multi-Lang |
