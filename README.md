@@ -43,6 +43,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 
 | Tool | Type | Technology |
 |------|------|------------|
+| [Cecuro](https://cecuro.ai/) | AI Smart Contract Auditing | Multi-Lang |
 | [Cantina Apex](https://cantina.xyz/solutions/code-analyzer/enterprise) | Enterprise AI Audit | General Web3 |
 | [SherlockAI](https://sherlock.xyz/solutions/ai) | Security Analysis Agent | General Web3 |
 | [Savant Chat](https://savant.chat/) | AI Security Audits | General Web3 |
