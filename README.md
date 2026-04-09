@@ -38,6 +38,8 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [konstantinvelev/AI](https://github.com/konstantinvelev/AI) | Claude Code Skills | Multi-Lang |
 | [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI Auditor | Rust |
 | [DarkNavySecurity/contract-auditor](https://github.com/DarkNavySecurity/web3-skills/tree/main/contract-auditor) | Smart Contract Audit Skill | Solidity |
+| [kaveyjoe/SUIZERO](https://github.com/kaveyjoe/SUIZERO) | AI Security Audits | Move (Sui) |
+| [0xRayaa/scoping-bee](https://github.com/0xRayaa/scoping-bee) | AI-powered Pre-audit Scoping Skill | Solidity / Rust |
 
 ## Paid/Closed Source AI Security Tools
 
@@ -69,3 +71,4 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [Olympix](https://olympix.security/) | Pre-deployment Security | Multi-Lang |
 | [AuditBase](https://www.auditbase.com/) | Smart Contract Scan | Solidity |
 | [Guardix](https://guardix.io/) | AI-powered Audits | Multi-Lang |
+| [Cecuro](https://cecuro.ai/) | AI-powered Smart Contract Auditing Platform | Multi-Lang |
