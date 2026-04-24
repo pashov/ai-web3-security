@@ -41,6 +41,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [kaveyjoe/SUIZERO](https://github.com/kaveyjoe/SUIZERO) | AI Security Audits | Move (Sui) |
 | [0xRayaa/scoping-bee](https://github.com/0xRayaa/scoping-bee) | AI-powered Pre-audit Scoping Skill | Solidity / Rust |
 | [cameronkarthik/base-audit-bot](https://github.com/cameronkarthik/base-audit-bot) | Base Audit Bot | Base |
+| [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI Engine for Smart Contract Audit | Multi-Lang |
 
 ## Paid/Closed Source AI Security Tools
 
