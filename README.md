@@ -43,6 +43,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [cameronkarthik/base-audit-bot](https://github.com/cameronkarthik/base-audit-bot) | Base Audit Bot | Base |
 | [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI Engine for Smart Contract Audit | Multi-Lang |
 | [scabench-org/hound](https://github.com/scabench-org/hound) | Language-agnostic AI Auditor | Multi-Lang |
+| [heavyw8t/The-Judge](https://github.com/heavyw8t/The-Judge/tree/710e06a0cee1f43fc551952acce59e3c90fa2141/skill/judge) | Judging Skill | Multi-Lang |
 
 ## Paid/Closed Source AI Security Tools
 
