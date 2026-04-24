@@ -42,6 +42,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [0xRayaa/scoping-bee](https://github.com/0xRayaa/scoping-bee) | AI-powered Pre-audit Scoping Skill | Solidity / Rust |
 | [cameronkarthik/base-audit-bot](https://github.com/cameronkarthik/base-audit-bot) | Base Audit Bot | Base |
 | [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI Engine for Smart Contract Audit | Multi-Lang |
+| [scabench-org/hound](https://github.com/scabench-org/hound) | Language-agnostic AI Auditor | Multi-Lang |
 
 ## Paid/Closed Source AI Security Tools
 
