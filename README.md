@@ -44,6 +44,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI Engine for Smart Contract Audit | Multi-Lang |
 | [scabench-org/hound](https://github.com/scabench-org/hound) | Language-agnostic AI Auditor | Multi-Lang |
 | [heavyw8t/The-Judge](https://github.com/heavyw8t/The-Judge/tree/710e06a0cee1f43fc551952acce59e3c90fa2141/skill/judge) | Judging Skill | Multi-Lang |
+| [cholakovvv/foundry-poc-mainnet-fork](https://github.com/cholakovvv/foundry-poc-mainnet-fork) | Mainnet-Fork Foundry PoC Skill | Solidity |
 
 ## Paid/Closed Source AI Security Tools
 
