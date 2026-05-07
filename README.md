@@ -48,6 +48,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [gdroz3r/drozer-lite](https://github.com/gdroz3r/drozer-lite) | Smart Contract Vulnerability Scanner | Multi-Lang |
 | [cholakovvv/foundry-poc-mainnet-fork](https://github.com/cholakovvv/foundry-poc-mainnet-fork) | Mainnet-Fork Foundry PoC Skill | Solidity |
 | [J4X-Security/K.I.T](https://github.com/J4X-Security/K.I.T) | Creates a report of already known findings | Multi-Lang |
+| [zzzuhaibmohd/solana-token-extensions-security](https://github.com/zzzuhaibmohd/solana-token-extensions-security) | Solana Audit Skill (Token-2022) | Solana |
 
 ## Paid/Closed Source AI Security Tools
 
