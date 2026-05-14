@@ -18,6 +18,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [KannAILabs/Solidity-AI-security-auditor](https://github.com/KannAILabs/Solidity-AI-security-auditor) | AI-powered smart contract security audit tool | Solidity |
 | [alt-research/SolidityGuard](https://github.com/alt-research/SolidityGuard) | Solidity/EVM smart contract security auditor | Solidity |
 | [GPTScan/GPTScan](https://github.com/GPTScan/GPTScan) | GPT + Program Analysis Logic Vulnerability Detector | Solidity |
+| [BradMoonUESTC/TxAnalyzer](BradMoonUESTC/TxAnalyzer) | Attack Event Analysis | Solidity |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Rust Security Development Skill | Rust |
 | [sanbir/move-auditor-skills](https://github.com/sanbir/move-auditor-skills) | Move Auditor Skills | Move |
 | [pantheraudits/move-auditor](https://github.com/pantheraudits/move-auditor/) | Move Auditor | Move |
@@ -62,6 +63,7 @@ Built and maintained by [www.pashov.com](https://pashov.com)
 | [Bunzz](https://www.bunzz.dev/audit) | AI Audits | General Web3 |
 | [GregoAI](https://grego.ai/) | AI Security | General Web3 |
 | [Testmachine](https://testmachine.ai/) | AI Security | General Web3 |
+| [Clarahacks](https://www.clarahacks.com/) | Attack Event Analysis | Solidity / EVM |
 | [Octane](https://www.octane.security/) | AI Security Engineer | Solidity / EVM |
 | [Zellic V12](https://v12.zellic.io/) | Autonomous Auditor | Solidity / EVM |
 | [SolidityScan](https://solidityscan.com/) | Smart Contract Scanning Tool | Solidity / EVM |
