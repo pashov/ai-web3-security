@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-75-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-76-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (14)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [Multi-Language (24)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (15)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [Multi-Language (24)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Multi-Language (22)](#multi-language-1)
 
@@ -37,6 +37,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [GPTScan](https://github.com/GPTScan/GPTScan) | GPT + static analysis to catch logic bugs |
 | [kadenzipfel/scv-scan](https://github.com/kadenzipfel/scv-scan) | Scans for common contract vulnerabilities |
 | [KannAILabs/Solidity-AI-security-auditor](https://github.com/KannAILabs/Solidity-AI-security-auditor) | AI-powered smart-contract audit tool |
+| [TarasBrilian/gebug-audit](https://github.com/TarasBrilian/gebug-audit) | Two-phase Claude Code audit workflow for Solidity with validated Foundry PoCs |
 | [quillai-network/qs_skills](https://github.com/quillai-network/qs_skills) | QuillAI security audit skills |
 | [zerocoolailabs/ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) | Vulnerability detector skill |
 
