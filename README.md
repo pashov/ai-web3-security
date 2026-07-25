@@ -37,7 +37,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [GPTScan](https://github.com/GPTScan/GPTScan) | GPT + static analysis to catch logic bugs |
 | [kadenzipfel/scv-scan](https://github.com/kadenzipfel/scv-scan) | Scans for common contract vulnerabilities |
 | [KannAILabs/Solidity-AI-security-auditor](https://github.com/KannAILabs/Solidity-AI-security-auditor) | AI-powered smart-contract audit tool |
-| [TarasBrilian/gebug-audit](https://github.com/TarasBrilian/gebug-audit) | Two-phase Claude Code audit workflow for Solidity with validated Foundry PoCs |
+| [TarasBrilian/gebug-audit](https://github.com/TarasBrilian/gebug-audit) | EVM audit workflow for Claude Code with AI-driven findings and Foundry PoC validation |
 | [quillai-network/qs_skills](https://github.com/quillai-network/qs_skills) | QuillAI security audit skills |
 | [zerocoolailabs/ZeroSkills](https://github.com/zerocoolailabs/ZeroSkills) | Vulnerability detector skill |
 
