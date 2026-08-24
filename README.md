@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-84-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-85-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (25)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (4)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (26)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -69,13 +69,14 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 ### Multi-Language
 
 <details>
-<summary><b>25 tools</b> — click to expand</summary>
+<summary><b>26 tools</b> — click to expand</summary>
 
 | Tool | What it does |
 |------|--------------|
 | [0xiehnnkta/nemesis-auditor](https://github.com/0xiehnnkta/nemesis-auditor) | Adversarial security-audit agent skill |
 | [0xRayaa/scoping-bee](https://github.com/0xRayaa/scoping-bee) | AI pre-audit scoping assistant |
 | [33Audits/cca-audit-agent](https://github.com/33Audits/cca-audit-agent) | Uniswap CCA audit agent |
+| [adshao/flounder](https://github.com/adshao/flounder) | Security automation for target prep, audit, exploit construction, and execution proof |
 | [aeonfun/aeon](https://github.com/aeonfun/aeon) | Autonomous agent framework with an onchain vuln-scanner and Uniswap v4 hook static-audit/fuzz skills |
 | [BradMoonUESTC/finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) | AI engine for smart-contract audits |
 | [digger-determsec/digger](https://github.com/digger-determsec/digger) | Evidence-gated multi-language smart-contract analyzer |
