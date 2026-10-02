@@ -56,7 +56,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 
 | Tool | What it does |
 |------|--------------|
-| [0xCyrildev/Chase](https://github.com/0xCyrildev/Chase) | Post-deployment Sui Move tx analysis: trace invariants, triage, package watcher, MCP |
+| [0xCyrildev/Chase](https://github.com/0xCyrildev/Chase) | Post-deployment Sui Move tx analysis |
 | [exvulsec/sui-move-skill](https://github.com/exvulsec/sui-move-skill) | Autonomous Sui Move security audit skill for Codex |
 | [kaveyjoe/SUIZERO](https://github.com/kaveyjoe/SUIZERO) | AI security audits for Sui Move |
 | [pantheraudits/move-auditor](https://github.com/pantheraudits/move-auditor/) | Move smart-contract auditor |
