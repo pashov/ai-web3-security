@@ -9,11 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-91-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-92-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (3)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (18)](#solidity--evm) · [Rust / Solana (4)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -50,6 +50,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 |------|--------------|
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Secure Rust/Solana development guardrails |
 | [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI auditor embedded in a node repo |
+| [TodorBonchev/rust-auditor](https://github.com/TodorBonchev/rust-auditor) | Multi-agent audit skill for Solana programs (Anchor, native, Pinocchio) with optional PoC verification |
 | [zzzuhaibmohd/solana-token-extensions-security](https://github.com/zzzuhaibmohd/solana-token-extensions-security) | Audits Solana Token-2022 extensions |
 
 ### Move/Sui
