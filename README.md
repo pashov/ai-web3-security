@@ -118,6 +118,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 |------|--------------|
 | [AuditBase](https://www.auditbase.com/) | Smart-contract scanner |
 | [Firepan](https://firepan.com/) | Security orchestration platform |
+| [LeftClaw Services](https://leftclaw.services/) | AI smart-contract and frontend audits, paid per job via x402 |
 | [Octane](https://www.octane.security/) | AI security engineer for Solidity/EVM |
 | [One Dollar Audit](https://www.onedollaraudit.com/) | AI Solidity audit report for a flat $1 |
 | [Solarizer](https://solarizer.io/) | AI security engine |
