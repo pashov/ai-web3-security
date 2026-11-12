@@ -9,7 +9,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-94-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-95-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
@@ -57,7 +57,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [0xCyrildev/dot](https://github.com/0xCyrildev/dot) | Agentic Solana upgrade blast-radius analysis from CPI traces, not source |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Secure Rust/Solana development guardrails |
 | [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI auditor embedded in a node repo |
-| [humblefool13/pashov-skills-solana](https://github.com/humblefool13/pashov-skills-solana) | Solana ports of the Pashov skills: pre-audit x-ray, 12-agent audit and LiteSVM/proptest fuzz suites (Anchor, native, Pinocchio) |
+| [humblefool13/pashov-skills-solana](https://github.com/humblefool13/pashov-skills-solana) | Solana ports of Pashov skills: x-ray, auditor, and fuzzing |
 | [TodorBonchev/rust-auditor](https://github.com/TodorBonchev/rust-auditor) | Multi-agent audit skill for Solana programs (Anchor, native, Pinocchio) |
 | [zzzuhaibmohd/solana-token-extensions-security](https://github.com/zzzuhaibmohd/solana-token-extensions-security) | Audits Solana Token-2022 extensions |
 
