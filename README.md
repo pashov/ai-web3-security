@@ -13,7 +13,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Vyper (2)](#vyper) · [Rust / Solana (5)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Vyper (2)](#vyper) · [Rust / Solana (6)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (25)](#multi-language-1)
 
@@ -55,6 +55,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | Tool | What it does |
 |------|--------------|
 | [0xCyrildev/dot](https://github.com/0xCyrildev/dot) | Agentic Solana upgrade blast-radius analysis from CPI traces, not source |
+| [ChrisRanAn1/solana-spear-oss](https://github.com/ChrisRanAn1/solana-spear-oss) | Fans Solana/Anchor source to 8 parallel specialist auditors, then judges and dedups into one report |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Secure Rust/Solana development guardrails |
 | [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI auditor embedded in a node repo |
 | [TodorBonchev/rust-auditor](https://github.com/TodorBonchev/rust-auditor) | Multi-agent audit skill for Solana programs (Anchor, native, Pinocchio) |
