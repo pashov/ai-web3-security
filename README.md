@@ -55,7 +55,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | Tool | What it does |
 |------|--------------|
 | [0xCyrildev/dot](https://github.com/0xCyrildev/dot) | Agentic Solana upgrade blast-radius analysis from CPI traces, not source |
-| [ChrisRanAn1/solana-spear-oss](https://github.com/ChrisRanAn1/solana-spear-oss) | Fans Solana/Anchor source to 8 parallel specialist auditors, then judges and dedups into one report |
+| [ChrisRanAn1/solana-spear](https://github.com/ChrisRanAn1/solana-spear-oss) | 8 parallel agent python harness including judge, merge and poc |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Secure Rust/Solana development guardrails |
 | [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI auditor embedded in a node repo |
 | [TodorBonchev/rust-auditor](https://github.com/TodorBonchev/rust-auditor) | Multi-agent audit skill for Solana programs (Anchor, native, Pinocchio) |
