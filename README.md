@@ -13,9 +13,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 
 ## Contents
 
+
 **Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Vyper (2)](#vyper) · [Rust / Solana (7)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
 
-**Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (25)](#multi-language-1)
+
+**Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (26)](#multi-language-1)
 
 ---
 
@@ -58,6 +60,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [ChrisRanAn1/solana-spear-oss](https://github.com/ChrisRanAn1/solana-spear-oss) | 8 parallel agent python harness including judge, automatic merge result |
 | [Frankcastleauditor/safe-solana-builder](https://github.com/Frankcastleauditor/safe-solana-builder) | Secure Rust/Solana development guardrails |
 | [galacticcouncil/cl0wdit](https://github.com/galacticcouncil/hydration-node/blob/master/.claude/skills/security_audit/SKILL.md) | Rust AI auditor embedded in a node repo |
+| [humblefool13/pashov-skills-solana](https://github.com/humblefool13/pashov-skills-solana) | Solana ports of Pashov skills: x-ray, auditor, and fuzzing |
 | [TodorBonchev/rust-auditor](https://github.com/TodorBonchev/rust-auditor) | Multi-agent audit skill for Solana programs (Anchor, native, Pinocchio) |
 | [zzzuhaibmohd/solana-token-extensions-security](https://github.com/zzzuhaibmohd/solana-token-extensions-security) | Audits Solana Token-2022 extensions |
 
@@ -143,11 +146,12 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 ### Multi-Language
 
 <details>
-<summary><b>25 tools</b> — click to expand</summary>
+<summary><b>26 tools</b> — click to expand</summary>
 
 | Tool | What it does |
 |------|--------------|
 | [Almanax](https://www.almanax.ai/) | AI security engineer |
+| [Almondo](https://almondo-labs.ai/) | AI smart-contract audits for EVM, Solana, Move, Stellar and Cosmos |
 | [AuditHub](https://audithub.dev/) | Automated security scanner |
 | [Auron](https://www.auron.xyz/) | Autonomous AI security researcher |
 | [Bunzz](https://www.bunzz.dev/audit) | AI smart-contract audits |
