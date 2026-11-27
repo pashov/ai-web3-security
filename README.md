@@ -13,7 +13,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 
 ## Contents
 
-**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Vyper (2)](#vyper) · [Rust / Solana (7)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
+**Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Vyper (2)](#vyper) · [Rust / Solana (7)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (31)](#multi-language)
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (26)](#multi-language-1)
 
@@ -81,7 +81,7 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 ### Multi-Language
 
 <details>
-<summary><b>29 tools</b> — click to expand</summary>
+<summary><b>31 tools</b> — click to expand</summary>
 
 | Tool | What it does |
 |------|--------------|
@@ -102,6 +102,8 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 | [itsdarktoday/auditcode](https://github.com/itsdarktoday/auditcode) | Autonomous multi-agent audit harness with static tools and Foundry PoCs |
 | [J4X-Security/K.I.T](https://github.com/J4X-Security/K.I.T) | Reports already-known findings |
 | [JoranHonig/grimoire](https://github.com/JoranHonig/grimoire) | Co-auditor skill that pairs with you |
+| [KhomDev/priorart](https://github.com/KhomDev/priorart) | Checks a finding against prior audits, known issues and scope before submission (skill + MCP server) |
+| [KhomDev/realism-gate](https://github.com/KhomDev/realism-gate) | Checks exploit PoC tests and a finding's claims before submission (skill + MCP server) |
 | [konstantinvelev/AI](https://github.com/konstantinvelev/AI) | Collection of Claude Code security skills |
 | [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) | Orchestrates AI agents to find real vulnerabilities in code |
 | [marchev/claudit](https://github.com/marchev/claudit) | Security findings reporting skill |
