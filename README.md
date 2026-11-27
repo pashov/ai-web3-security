@@ -9,13 +9,11 @@ A curated list of AI tools for smart-contract security. Built and maintained by 
 - 💼 **Want a managed platform or service?** → [Paid & Closed Source](#paid--closed-source)
 - 🔤 **Looking for your language?** → jump straight from the Contents below.
 
-![tools](https://img.shields.io/badge/tools-96-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
+![tools](https://img.shields.io/badge/tools-97-blue) ![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) &nbsp; ⭐ = featured pick
 
 ## Contents
 
-
 **Free & Open Source** — [Solidity / EVM (17)](#solidity--evm) · [Vyper (2)](#vyper) · [Rust / Solana (7)](#rust--solana) · [Move/Sui (5)](#movesui) · [ZK / Circom (1)](#zk--circom) · [Multi-Language (29)](#multi-language)
-
 
 **Paid & Closed Source** — [Solidity / EVM (8)](#solidity--evm-1) · [Rust / Solana (2)](#rust--solana-1) · [Multi-Language (26)](#multi-language-1)
 
